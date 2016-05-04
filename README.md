@@ -8,3 +8,9 @@ Predicting 2016 Arrests in Chicago
 
 ### Data Source: 
 https://data.cityofchicago.org/
+
+### Website:
+https://bio260project.wordpress.com/
+
+### Screencast:
+https://youtu.be/LHpawt2pUTw
