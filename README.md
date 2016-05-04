@@ -11,6 +11,9 @@ https://data.cityofchicago.org/
 
 Our data sets can be accessed here: https://drive.google.com/folderview?id=0Bz5vCQobiwZXeXo1cXF6OGlGbGM&usp=sharing
 
+### View HTML:
+http://mgwlim.github.io/
+
 ### Website:
 https://bio260project.wordpress.com/
 
