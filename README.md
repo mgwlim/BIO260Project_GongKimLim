@@ -8,6 +8,7 @@ Predicting 2016 Arrests in Chicago
 
 ### Data Source: 
 https://data.cityofchicago.org/
+
 Our data sets can be accessed here: https://drive.google.com/folderview?id=0Bz5vCQobiwZXeXo1cXF6OGlGbGM&usp=sharing
 
 ### Website:
